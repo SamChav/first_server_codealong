@@ -9,7 +9,7 @@
 //     var guestsJSON = JSON.stringify(guests);
 
 //     res.setHeader('Content-Type', 'application/json');
-//     res.end(guestsJSON);
+//     res.end(guestsJSON)
 //   }
 //   else {
 //     res.statusCode = 404;
